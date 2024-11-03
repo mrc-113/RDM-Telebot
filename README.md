@@ -1,0 +1,1 @@
+This bot is designed to inspire people to create interesting items from materials like paper, plastic, and cardboard. By encouraging upcycling, the bot aims to help reduce waste and raise awareness about environmental impact.
